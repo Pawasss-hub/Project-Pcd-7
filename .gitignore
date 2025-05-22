@@ -1,0 +1,16 @@
+# Abaikan folder dataset besar
+dataset/
+dataset_filtered/
+dataset_gray/
+
+# Abaikan file zip atau tar.gz kalau ada
+*.zip
+*.tar.gz
+
+# Abaikan file cache Python
+__pycache__/
+*.pyc
+
+# Abaikan folder output model atau logs
+output/
+logs/
