@@ -1,6 +1,11 @@
-# Project-Pcd-7
+# JUDUL ??
 
-- taruh dataset dalam folder `dataset`
-  ├── dataset/
-  │ ├── train/
-  │ └── valid/
+## Nama Anggota
+
+### AHMAD MADANI : F1D02310101
+
+### VALERINE JESIKA DEWI : F1D02310027
+
+### MUHAMMAD FAWAZ HADIMATULLOH : F1D02310079
+
+### DATU REKSA HAMZA PUTRA : F1D02310045
