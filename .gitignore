@@ -1,6 +1,4 @@
 # Abaikan folder dataset besar
-dataset/
-dataset_filtered/
 dataset_gray/
 
 # Abaikan file zip atau tar.gz kalau ada
